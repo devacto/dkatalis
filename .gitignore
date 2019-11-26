@@ -1,0 +1,10 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.plan
+
+# Module directory
+.terraform/
+
+# AWS credentials
+.aws/env
